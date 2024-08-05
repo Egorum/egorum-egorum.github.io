@@ -1,6 +1,4 @@
-    ::-webkit-scrollbar {
-        width: 0;
-               }
+
 * {
 	border: 0;
 	box-sizing: border-box;
@@ -176,3 +174,7 @@ h1 {
 		--primary: hsl(var(--hue),90%,70%);
 	}
 }
+
+::-webkit-scrollbar {
+        width: 0;
+               }
